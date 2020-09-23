@@ -21,7 +21,7 @@ In order to install Prometheus, NATS, Cassandra using Kubernetes, we need to fir
 
 ## Procedures
 
-The procedure assumes that you have 32G SD Card that you can partition into one 16G disk and seven 7G disks.
+The procedure assumes that you have 64G SD Card that you can partition into one 16G disk and seven 7G disks.
 
 ### Partition the SD cards
 
